@@ -1,0 +1,11 @@
+#header{
+    display: block;
+    background: #1B385B;
+    margin-bottom: 45px; 
+}
+
+#header > img{
+    padding: 15px;
+    padding-left: 100px;
+    width: 50px;
+}

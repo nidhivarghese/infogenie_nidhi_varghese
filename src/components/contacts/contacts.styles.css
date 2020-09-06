@@ -1,0 +1,17 @@
+.searchbox-container{
+    display: block;
+    text-align:right;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.loading-div{
+    display: block;
+    padding: 25px;
+    width: 90%;
+    margin: 25px;
+    box-shadow: 2px 2px 4px grey;
+    text-align: center;
+    font-size:25px;
+}

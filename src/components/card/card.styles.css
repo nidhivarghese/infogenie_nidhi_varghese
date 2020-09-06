@@ -1,0 +1,52 @@
+.card{
+    background: #FFF;
+    box-shadow: 1px 1px 2px grey;
+    display: grid;
+    grid-template-columns: 20% auto;
+    border-radius: 2px;
+    border-left: 7px solid #4093D1 ;
+    padding:15px;
+}
+
+.card-img{
+    padding: 5px
+}
+
+.card img{
+    border-radius: 50%;
+    width: 55px;
+}
+
+.card-title{
+    font-size: 20px;
+    margin: 2px;
+}
+
+
+.card-body p{
+    font-size: 15px;
+    color: grey;
+    margin: 8px;
+}
+
+
+.card-reveal-button-block__show{
+    position: relative;
+    top: -50px;
+    left: 8px;
+    padding-bottom: 18px;
+    background: linear-gradient(to bottom, rgba(255,255,255,0), 2%, rgba(255,255,255,1));
+}
+
+.card-reveal-button-block__hide{
+    visibility: hidden;
+}
+
+.card-reveal-button{
+    color: #4093D1;
+    font-size: 15px;
+    outline: none;
+    padding: 0px;
+    border: 0px;
+    background:rgba(255,255,255, 0);
+}

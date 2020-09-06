@@ -1,0 +1,5 @@
+Following are the steps taken to develop the project:
+1. Divided the 2 screens in the assignment into individual components
+2. Decided on the states and which component it resides in.
+3. Created stylesheets for individual components
+4. Integrated the component into the main screen
